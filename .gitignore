@@ -1,0 +1,5 @@
+# AppCode settings
+**/.idea/*
+.idea/
+
+node_modules/*
