@@ -1,8 +1,13 @@
 
-Интересеные пользователи:
+Интересеные пользователи и ресурсы:
  - https://github.com/rsajob/docs
  - https://github.com/ant-design/ant-design
 
 
-
+(Google - https://google.github.io/styleguide/htmlcssguide.html)
+(- https://github.com/necolas/idiomatic-css)
+https://cssguidelin.es/
+https://devdocs.io/css/
+https://devhints.io/
+https://bool.dev/blog/detail/front-end-handbook-2019
 
