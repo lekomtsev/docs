@@ -11,3 +11,5 @@ https://devdocs.io/css/
 https://devhints.io/
 https://bool.dev/blog/detail/front-end-handbook-2019
 
+https://gist.github.com/Mons1eurEnzo/af51d2663cbec5ea9143451725f24552
+https://dev.1c-bitrix.ru/community/webdev/user/208164/blog/8479/
