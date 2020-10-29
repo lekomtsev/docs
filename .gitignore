@@ -1,5 +1,5 @@
 # AppCode settings
 **/.idea/*
 .idea/
-
+index.txt
 node_modules/*
