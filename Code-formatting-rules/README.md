@@ -17,17 +17,15 @@
     * [Использование БЭМ методологии](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-bem.md)
     * [Оформление JavaScript-кода](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-js.md)
 2. [Работа с метатегами](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/metatags/metatags.md)
-    * Базовые метатеги
-    * Метатеги Apple
-    * Метатеги Microsoft
-    * Метатеги Open Graph 
-    * Метатеги Twitter
+    
 3. Работа с дополнительными ресурсами 
-    * Шрифты 
+    * [Шрифты](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/resources/resources.md) 
 
 4. Perfect-pixel или верстка в соответствии с макетом
+
 5. Тестирование 
     * Подробный чеклист по тестированию сайтов
-    * Короткий чеклист по тестированию сайтов 
+    * Короткий чеклист по тестированию сайтов
+    
 6. Дополнительная информация 
         
