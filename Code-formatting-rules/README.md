@@ -21,7 +21,7 @@
 3. Работа с дополнительными ресурсами 
     * [Шрифты](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/resources/resources.md) 
 
-4. Perfect-pixel или верстка в соответствии с макетом
+4. [Pixel-perfect](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/prefect-pixel/prefect-pixel.md) или верстка в соответствии с макетом
 
 5. Тестирование 
     * Подробный чеклист по тестированию сайтов
