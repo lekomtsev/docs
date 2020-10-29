@@ -6,11 +6,11 @@
 ## Оглавление
 
 1. Оформление кода
-    * Оформление HTML
-    * [Оформление Pug (Jade)](https://github.com/lekomtsev/docs/blob/master/content/codestyle/codestyle-pug.md)
-    * [Оформление CSS и SCSS](https://github.com/lekomtsev/docs/blob/master/content/codestyle/codestyle-css.md)
-    * [Использование БЭМ методологии](https://github.com/lekomtsev/docs/blob/master/content/codestyle/codestyle-bem.md)
-    * [Оформление JavaScript-кода](https://github.com/lekomtsev/docs/blob/master/content/codestyle/codestyle-js.md)
+    * [Оформление HTML](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-html.md)
+    * [Оформление Pug (Jade)](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-pug.md)
+    * [Оформление CSS и SCSS](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-css.md)
+    * [Использование БЭМ методологии](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-bem.md)
+    * [Оформление JavaScript-кода](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-js.md)
 2. Работа с метатегами
     * Базовые метатеги
     * Метатеги Apple
@@ -26,8 +26,3 @@
     * Короткий чеклист по тестированию сайтов 
 6. Дополнительная информация 
         
-
-
-Здесь собраны различные заметки по программированию и адимнистрированию. То c чем работал и разбирался когда либо, записываю на будущее чтобы не забыть.
-
-Всё лежит в [Wiki](https://github.com/lekomtsev/docs/wiki) 

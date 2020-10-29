@@ -10,15 +10,13 @@
 
 * Всегда ставится `;`.
 
-**** Уточниться на счет - event, может быть использовать evt
-
 **Неправильно:**
 
 ```js
-$('form').on('submit', (event) => {
-    let $form = $(event.currentTarget)
+$('form').on('submit', (evt) => {
+    let $form = $(evt.currentTarget)
 
-    event.preventDefault()
+    evt.preventDefault()
 
     if (validate($form)) {
         $.post($form.attr('action'))
@@ -35,10 +33,10 @@ $('form').on('submit', (event) => {
 **Правильно:**
 
 ```js
-$('form').on('submit', (event) => {
-    let $form = $(event.currentTarget);
+$('form').on('submit', (evt) => {
+    let $form = $(evt.currentTarget);
 
-    event.preventDefault();
+    evt.preventDefault();
 
     if (validate($form)) {
         $.post($form.attr('action'))
@@ -83,8 +81,8 @@ $('.test__button').on('click', () => {
 **Неправильно:**
 
 ```js
-let dx = event.clientX - start.clientX;
-let dy = event.clientY - start.clientY;
+let dx = evt.clientX - start.clientX;
+let dy = evt.clientY - start.clientY;
 
 $slider.css({
     '-webkit-transform': `translate(${dx}px, 0)`,
@@ -95,7 +93,7 @@ $slider.css({
 **Правильно:**
 
 ```js
-let dx = event.clientX - start.clientX;
+let dx = evt.clientX - start.clientX;
 
 $slider.css({
     '-webkit-transform': `translate(${dx}px, 0)`,
@@ -188,8 +186,8 @@ $('.js-scroll').on('click', (e) => {
 **Правильно:**
 
 ```js
-$('.js-scroll').on('click', (event) => {
-    let $link = $(event.currentTarget);
+$('.js-scroll').on('click', (evt) => {
+    let $link = $(evt.currentTarget);
     let href = $link.attr('href');
     let top = $(href).offset().top;
 
@@ -204,10 +202,10 @@ $('.js-scroll').on('click', (event) => {
 **Неправильно:**
 
 ```js
-$('form').on('submit', (event) => {
-    let $form = $(event.currentTarget);
+$('form').on('submit', (evt) => {
+    let $form = $(evt.currentTarget);
     let $button = $form.find('submit');
-    event.preventDefault();
+    evt.preventDefault();
     $button.prop('disabled', true);
     submitForm($form);
 });
@@ -216,11 +214,11 @@ $('form').on('submit', (event) => {
 **Правильно:**
 
 ```js
-$('form').on('submit', (event) => {
-    let $form = $(event.currentTarget);
+$('form').on('submit', (evt) => {
+    let $form = $(evt.currentTarget);
     let $button = $form.find('submit');
 
-    event.preventDefault();
+    evt.preventDefault();
     $button.prop('disabled', true);
     submitForm($form);
 });
@@ -326,8 +324,8 @@ switch (number) {
 for (let i = 0; i < 10; i++) {
     y *= i;
 }
-$('.button').on('click', (event) => {
-    event.preventDefault();
+$('.button').on('click', (evt) => {
+    evt.preventDefault();
     run();
 });
 ```
@@ -387,8 +385,8 @@ for (let i = 0; i < 10; i++) {
     y *= i;
 }
 
-$('.button').on('click', (event) => {
-    event.preventDefault();
+$('.button').on('click', (evt) => {
+    evt.preventDefault();
     run();
 });
 ```
@@ -398,27 +396,27 @@ $('.button').on('click', (event) => {
 **Неправильно:**
 
 ```js
-$('.js-scroll-to').on('click', (event) => {
-    event.preventDefault();
-    scrollTo(event.currentTarget.href);
+$('.js-scroll-to').on('click', (evt) => {
+    evt.preventDefault();
+    scrollTo(evt.currentTarget.href);
 });
 
 
-$('.js-close').on('click', (event) => {
-    $(event.currentTarget).parent().removeClass('is-open');
+$('.js-close').on('click', (evt) => {
+    $(evt.currentTarget).parent().removeClass('is-open');
 });
 ```
 
 **Правильно:**
 
 ```js
-$('.js-scroll-to').on('click', (event) => {
-    event.preventDefault();
-    scrollTo(event.currentTarget.href);
+$('.js-scroll-to').on('click', (evt) => {
+    evt.preventDefault();
+    scrollTo(evt.currentTarget.href);
 });
 
-$('.js-close').on('click', (event) => {
-    $(event.currentTarget).parent().removeClass('is-open');
+$('.js-close').on('click', (evt) => {
+    $(evt.currentTarget).parent().removeClass('is-open');
 });
 ```
 
@@ -498,7 +496,7 @@ function getDateTime() {
 }
 ```
 
-* Используется `let` вместо `var`.
+* Используется `let, const` вместо `var`.
 
 **Неправильно:**
 
@@ -526,8 +524,8 @@ let fullname = `${name} ${surname}`;
 **Неправильно:**
 
 ```js
-$('form').on('submit', function (event) {
-    event.preventDefault();
+$('form').on('submit', function (evt) {
+    evt.preventDefault();
     submitForm(this);
 });
 ```
@@ -535,9 +533,9 @@ $('form').on('submit', function (event) {
 **Правильно:**
 
 ```js
-$('form').on('submit', (event) => {
-    event.preventDefault();
-    submitForm(event.currentTarget);
+$('form').on('submit', (evt) => {
+    evt.preventDefault();
+    submitForm(evt.currentTarget);
 });
 ```
 

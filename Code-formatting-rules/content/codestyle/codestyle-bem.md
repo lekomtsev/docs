@@ -1,6 +1,6 @@
 # Использование БЭМ методологии
 
-Что такое БЭМ и всю информацио о методологии можно прочесть [здесь](https://ru.bem.info/methodology/).
+Что такое БЭМ и всю информацию о методологии можно прочесть [здесь](https://ru.bem.info/methodology/).
 
 * Используется стиль именования [«Two Dashes»](https://ru.bem.info/methodology/naming-convention/#%D1%81%D1%82%D0%B8%D0%BB%D1%8C-two-dashes).
 
