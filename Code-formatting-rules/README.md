@@ -3,7 +3,7 @@
 что руководство будет направлено на улучшение совместной работы, качества кода и сделает работу и проверку 
 проекта приятным.
 
-        Ресурсы в котрые следует заглянуть для выработки style guide:
+        Ресурсы в котрые следует заглянуть для изучения style guide:
         - https://google.github.io/styleguide/jsguide.html
         - https://google.github.io/styleguide/htmlcssguide.html
         - https://github.com/necolas/idiomatic-css
