@@ -3,6 +3,11 @@
 что руководство будет направлено на улучшение совместной работы, качества кода и сделает работу и проверку 
 проекта приятным.
 
+        Ресурсы в котрые следует заглянуть для выработки style guide:
+        - https://google.github.io/styleguide/jsguide.html
+        - https://google.github.io/styleguide/htmlcssguide.html
+        - https://github.com/necolas/idiomatic-css
+
 ## Оглавление
 
 1. Оформление кода
@@ -11,7 +16,7 @@
     * [Оформление CSS и SCSS](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-css.md)
     * [Использование БЭМ методологии](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-bem.md)
     * [Оформление JavaScript-кода](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/codestyle/codestyle-js.md)
-2. Работа с метатегами
+2. [Работа с метатегами](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/metatags/metatags.md)
     * Базовые метатеги
     * Метатеги Apple
     * Метатеги Microsoft

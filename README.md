@@ -11,8 +11,6 @@
         - тестирование сайтов
         - ...
 
-### [Agile манифест](https://github.com/lekomtsev/documentations/tree/master/Agile)
-
 ### [Linux](https://github.com/lekomtsev/documentations/tree/master/Linux)
         - Basic Linux
         - Commands
@@ -48,3 +46,4 @@
 
 ### [MySQL](https://github.com/lekomtsev/documentations/tree/master/MySQL)
         
+### [Agile манифест](https://github.com/lekomtsev/documentations/tree/master/Agile)        
