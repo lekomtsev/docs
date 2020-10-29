@@ -1,4 +1,5 @@
-Здесь собраны различные заметки по программированию и адимнистрированию. То c чем работал и разбирался когда либо, записываю на будущее чтобы не забыть.
+Здесь собраны различные заметки по программированию и администрированию. То c чем работал и разбирался 
+когда-либо, записываю на будущее чтобы не забыть.
 
 ## Оглавление
 
@@ -8,16 +9,28 @@
         - работа с дополнительными ресурсами (fonts, итп)
         - perfect-pixel
         - тестирование сайтов
+        - ...
 
 ### [Agile манифест](https://github.com/lekomtsev/documentations/tree/master/Agile)
 
 ### [Linux](https://github.com/lekomtsev/documentations/tree/master/Linux)
+        - Basic Linux
+        - Commands
+        - SSH
+        - ...
         
 ### [GIT](https://github.com/lekomtsev/documentations/tree/master/Git)
+        - Установка и основы
+        - ...
 
 ### [Docker](https://github.com/lekomtsev/documentations/tree/master/Docker)
 
 ### [JS](https://github.com/lekomtsev/documentations/tree/master/JS)
+        - Basic JS
+        - Модульность
+        - Webpack
+        - TypeScript
+        - ...
 
 ### [Angular](https://github.com/lekomtsev/documentations/tree/master/Angular)
 
@@ -25,18 +38,13 @@
 
 ### [Vue](https://github.com/lekomtsev/documentations/tree/master/Vue)
 
-### [Node.js]()
+### [Node.js](https://github.com/lekomtsev/documentations/tree/master/Node-js)
 
-### [PHP]()
+### [PHP](https://github.com/lekomtsev/documentations/tree/master/PHP)
 
-### [Wordpress]()
+### [Wordpress](https://github.com/lekomtsev/documentations/tree/master/Wordpress)
 
-### [Laravel]()
+### [Laravel](https://github.com/lekomtsev/documentations/tree/master/Laravel)
 
-### [MySQL]()
-
-### [MySQL]()
-
-
-
+### [MySQL](https://github.com/lekomtsev/documentations/tree/master/MySQL)
         
