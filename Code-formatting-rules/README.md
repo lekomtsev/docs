@@ -21,11 +21,11 @@
 3. Работа с дополнительными ресурсами 
     * [Шрифты](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/resources/resources.md) 
 
-4. [Pixel-perfect](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/prefect-pixel/prefect-pixel.md) или верстка в соответствии с макетом
+4. [Pixel-perfect](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/pixel-perfect/pixel-perfect.md) или верстка в соответствии с макетом
 
 5. Тестирование 
-    * Подробный чеклист по тестированию сайтов
-    * Короткий чеклист по тестированию сайтов
+    * [Подробный чеклист](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/testing/checklist.md) по тестированию сайтов
+    * [Короткий чеклист](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/testing/checklist-short.md) по тестированию сайтов
     
 6. Дополнительная информация 
         
