@@ -28,4 +28,7 @@
     * [Короткий чеклист](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/testing/checklist-short.md) по тестированию сайтов
     
 6. Дополнительная информация 
+    * [Работа с video.js](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/info/video-js.md)
+    * [Базовая валидация форм](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/info/video-js.md)
+    * [Производительность](https://github.com/lekomtsev/documentations/blob/master/Code-formatting-rules/content/info/validation.md)
         
