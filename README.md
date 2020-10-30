@@ -21,8 +21,6 @@
         - Установка и основы
         - ...
 
-### [Docker](https://github.com/lekomtsev/documentations/tree/master/Docker)
-
 ### [JS](https://github.com/lekomtsev/documentations/tree/master/JS)
         - Basic JS
         - Модульность
@@ -30,11 +28,13 @@
         - TypeScript
         - ...
 
-### [Angular](https://github.com/lekomtsev/documentations/tree/master/Angular)
-
 ### [React](https://github.com/lekomtsev/documentations/tree/master/React)
 
 ### [Vue](https://github.com/lekomtsev/documentations/tree/master/Vue)
+
+### [Angular](https://github.com/lekomtsev/documentations/tree/master/Angular)
+
+### [Docker](https://github.com/lekomtsev/documentations/tree/master/Docker)
 
 ### [Node.js](https://github.com/lekomtsev/documentations/tree/master/Node-js)
 
