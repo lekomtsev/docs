@@ -54,12 +54,20 @@ console.info(one, two, three) // '01', '2', '3'
 
 ## Деструктуризация массива 
 ```js
-
+    const array = [1, 2, 3, 4];
+    const [first, second, ,four] = array; // 1, 2, 4 
+    const [first, second, ,four = 12] = array; // можно устанавливать параметры по умолчанию
 ```
 
 ## Деструктуризация объекта    
 ```js
-
+    const people = {
+        name: 'John',
+        age: 30,
+        location: 'Moscow'
+    }
+    const {name, age} = people;
+    const {name: nickName, age: year} = people; // Можно переименовать, а также использовать параметр по умолчанию
 ```    
     
 ## Проблемы ES5
