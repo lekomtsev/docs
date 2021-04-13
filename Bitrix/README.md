@@ -8,4 +8,7 @@
     
     https://dev.1c-bitrix.ru/community/webdev/user/208164/blog/8479/
     https://gist.github.com/Mons1eurEnzo/af51d2663cbec5ea9143451725f24552
+
+** Способ отловить lang на js     
+BX.message.LANGUAGE_ID
         
