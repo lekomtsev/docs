@@ -11,7 +11,8 @@
     - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04-ru
     
     * Если не настроены права на /var/www/ , можно сделать следующее
-    ```
+    
+    ```bash
     // Проверка какие группы существуют
     cat /etc/group 
    
