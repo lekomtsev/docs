@@ -113,5 +113,10 @@
 ### Отключить процесс на порту
     * sudo netstat -tulpn | grep :80
     * sudo kill -9 985
+
+### OVPN
+    * https://www.youtube.com/watch?v=roJZGxLWtmc
+    * sudo apt install openvpn
+    * sudo openvpn --config ext_m.lecomtsev_ad.ovpn
     
     
