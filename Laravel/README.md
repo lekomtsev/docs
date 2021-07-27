@@ -7,3 +7,6 @@ https://www.digitalocean.com/community/tutorials/how-to-use-database-migrations-
     php artisan cache:clear
     php artisan view:cache
     php artisan config:cache
+
+## PDO postgres
+    https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-laravel
